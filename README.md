@@ -15,15 +15,15 @@ Learners develop skills in:
 - Incorporting external variables and pptimizing TS models by parameter tuning to improve models accuracy and reliability.
 
 📚 Included Courses:
-- Introduction to Time Series Forecasting
-- Exponential Smoothing and Holt-Winters
-- ARIMA, SARIMA and SARIMAX
-- Facebook Prophet
-- RNN - LSTM
-- Temporal Fusion Transformers
-- N-BEATS
-- Amazon Chronos
-- Google TSMixer
-- Linkedin Silverkite
+- [Introduction to Time Series Forecasting](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/Introduction%20to%20Time%20Series)
+- [Exponential Smoothing and Holt-Winters](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/Exponential%20Smoothing%20and%20Holt-Winters)
+- [ARIMA, SARIMA and SARIMAX](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/ARIMA%2C%20SARIMA%2C%20SARIMAX)
+- [Facebook Prophet](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/PROPHET)
+- [RNN - LSTM](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/RNN%20-%20LSTM)
+- [Temporal Fusion Transformers](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/TFT)
+- [N-BEATS](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/N-BEATS)
+- [Amazon Chronos](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/AMAZON%20CHRONOS)
+- [Google TSMixer](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/GOOGLE%20TSMIXER)
+- [Linkedin Silverkite](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/Linkedin%20Silverkite)
 
-## 🧪 Projects Showcase
+## 🧪 Project Showcase:
