@@ -24,6 +24,5 @@ Learners develop skills in:
 - [N-BEATS](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/N-BEATS)
 - [Amazon Chronos](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/AMAZON%20CHRONOS)
 - [Google TSMixer](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/GOOGLE%20TSMIXER)
-- [Linkedin Silverkite](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/Linkedin%20Silverkite)
 
-## 🧪 Project Showcase:
+## 🧪 Projects:
