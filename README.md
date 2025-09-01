@@ -6,15 +6,11 @@ This repository contains all my exercises, notebooks and capstone project for th
 ---
 
 ## 🎓 About the Course:
-This course provides a comprehensive deep dive into the theory and practical application of time series forecasting. It begins with the foundational principles of time series data and progress to a diverse range of models, from classical statistical methods to state-of-the-art deep learning and modern techniques. The curriculum is designed to tackle real-world forecasting challenges, covering data preparation and model implementation to performance evaluation and automation. By the end of this course, you will be proficient in building, optimizing, and deploying robust forecasting solutions for a variety of industries.
+This course provides a comprehensive deep dive into the theory and practical application of time series forecasting. The curriculum is designed to equip data professionals with the skills to tackle real-world forecasting challenges by covering the full project lifecycle—from initial data preparation and exploratory analysis to model building, hyperparameter tuning, and rigorous performance evaluation. You'll begin by mastering the foundational principles of time series data before progressing to a diverse array of forecasting models, spanning classical statistical methods, econometrics, and cutting-edge deep learning techniques.
 
-Learners develop skills in:
-- Understanding the fundamental principles of TS
-- Applying Econometrics or Basic TS methods
-- Devolop TS models using advanced machine learning techniques and identifying when to use such models
-- Incorporting external variables and optimizing TS models by parameter tuning to improve models accuracy.
+---
 
-📚 Included Courses:
+## 📚 Course Section:
 - [Introduction to Time Series Forecasting](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/Introduction%20to%20Time%20Series)
 - [Exponential Smoothing and Holt-Winters](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/Exponential%20Smoothing%20and%20Holt-Winters)
 - [ARIMA, SARIMA and SARIMAX](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/ARIMA%2C%20SARIMA%2C%20SARIMAX)
@@ -26,3 +22,7 @@ Learners develop skills in:
 - [Google TSMixer](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/GOOGLE%20TSMIXER)
 
 ## 🧪 Projects:
+- Rossmann Store Sales
+- Bike Share Data
+- Electricity Consumption
+
