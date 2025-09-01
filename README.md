@@ -11,10 +11,11 @@ This course provides a comprehensive deep dive into the theory and practical app
 ---
 
 ## 📚 Course Section:
-- [Introduction to Time Series Forecasting](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/Introduction%20to%20Time%20Series)
-- [Exponential Smoothing and Holt-Winters](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/Exponential%20Smoothing%20and%20Holt-Winters)
-- [ARIMA, SARIMA and SARIMAX](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/ARIMA%2C%20SARIMA%2C%20SARIMAX)
-- [Facebook Prophet](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/PROPHET)
+- [Introduction to Time Series Forecasting](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/blob/main/Introduction%20to%20Time%20Series/Introduction_to_Time_Series_Analysis.ipynb)
+- [Exponential Smoothing and Holt-Winters](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/blob/main/Exponential%20Smoothing%20and%20Holt-Winters/Exponential_Smoothing_and_Holt_Winters.ipynb)
+- [ARIMA, SARIMA and SARIMAX](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/blob/main/ARIMA%2C%20SARIMA%2C%20SARIMAX/ARIMA_SARIMA_SARIMAX_CV.ipynb)
+- [Facebook Prophet](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/blob/main/PROPHET/Facebook_Prophet_Daily_Bike_Share.ipynb)
+- [Intermittent TS](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/blob/main/Intermittent%20TS/Intermittent_Time_Series_using_AutoArima.ipynb)
 - [RNN - LSTM](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/RNN%20-%20LSTM)
 - [Temporal Fusion Transformers](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/TFT)
 - [N-BEATS](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/N-BEATS)
