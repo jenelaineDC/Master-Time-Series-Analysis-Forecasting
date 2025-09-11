@@ -24,8 +24,52 @@ This course provides a comprehensive deep dive into the theory and practical app
 
 ---
 
-## 🧪 Projects:
-- Rossmann Store Sales
-- Bike Share Data
-- Electricity Consumption
+## 🧪 Course Exercises:
+- Hourly Electricity Price using TFT:
+- Demand for Shelter using Prophet:
+- Coffee Sales Prediction using Google TSMixer:
+- Air Miles using Holt Winters:
+
+---
+
+## 🧪 Personal Projects:
+
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://www.forexcrunch.com/wp-content/uploads/2021/06/forex-market.png" alt="USD/RUB Forecasting" width="100%"/>
+    </td>
+    <td width="60%">
+      <strong>USD/RUB Forecasting</strong><br>
+      <strong>Overview:</strong> To be updated<br>
+      <strong>Techniques:</strong>ARIMA, Prophet, LSTM<br>
+      <strong>Metrics:</strong>MAE, MAPE and RMSE<br>
+      <strong>Goal:</strong> To be updated
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://www.fedenerg.ma/wp-content/uploads/2018/07/Hausse-de-58-de-la-production-nationale.jpg" alt="Electricity Demand Prediction" width="100%"/>
+    </td>
+    <td>
+      <strong>Electricity Demand</strong><br>
+      <strong>Overview:</strong> To be updated<br>
+      <strong>Techniques:</strong>Linear Regression and Ensemble Learning<br>
+      <strong>Metrics:</strong> To be updated<br>
+      <strong>Goal:</strong> To be updated
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://www.insider-trends.com/wp-content/uploads/2017/12/1.-Retail-Experience-Luxury-Brand-Store.jpeg" alt="Rossman Stores Data" width="100%"/>
+    </td>
+    <td>
+      <strong>Rossman Stores Data</strong><br>
+      <strong>Overview:</strong> To be updated<br>
+      <strong>Techniques:</strong> To be updated<br>
+      <strong>Metrics:</strong> To be updated<br>
+      <strong>Goal:</strong> To be updated
+    </td>
+  </tr>
+</table>
 
