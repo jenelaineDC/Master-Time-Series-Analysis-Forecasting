@@ -19,7 +19,7 @@ This course provides a comprehensive deep dive into the theory and practical app
 * RNN - LSTM: [Folder](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/RNN%20-%20LSTM)
 * Temporal Fusion Transformers: [Folder](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/TFT)
 * N-BEATS: [Folder](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/N-BEATS)
-* Amazon Chronos: [Folder](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/AMAZON%20CHRONOS)
+* Amazon Chronos: [Notebook](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/blob/main/AMAZON%20CHRONOS/Amazon_Chronos_v2.ipynb) | [Folder](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/AMAZON%20CHRONOS)
 * Google TSMixer: [Folder](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/GOOGLE%20TSMIXER)
 
 ---
