@@ -20,6 +20,7 @@ This course provides a comprehensive deep dive into the theory and practical app
 * Temporal Fusion Transformers: [Folder](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/TFT)
 * N-BEATS: [Folder](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/N-BEATS)
 * Amazon Chronos: [Notebook](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/blob/main/AMAZON%20CHRONOS/Amazon_Chronos_v2.ipynb) | [Folder](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/AMAZON%20CHRONOS)
+* Amazon AutoGluon: [Notebook](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/blob/main/Amazon%20AutoGluon/Amazon_Autogluon.ipynb) | [Folder](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/Amazon%20AutoGluon)
 * Google TSMixer: [Folder](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/tree/main/GOOGLE%20TSMIXER)
 
 ---
