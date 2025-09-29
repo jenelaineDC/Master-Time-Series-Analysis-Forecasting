@@ -28,7 +28,7 @@ This course provides a comprehensive deep dive into the theory and practical app
 ## 🧪 Course Exercises:
 - Air Miles using Holt Winters: [Notebook](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/blob/main/Exponential%20Smoothing%20and%20Holt-Winters/Holt_Winters_AirMiles.ipynb)
 - Demand for Shelter using Prophet: [Notebook](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/blob/main/PROPHET/Facebook_Prophet_Demand_for_Shelter.ipynb)
-- Coffee Sales Prediction using Google TSMixer:
+- Coffee Sales Prediction using Google TSMixer: [Notebook](https://github.com/jenelaineDC/Master-Time-Series-Analysis-Forecasting/blob/main/GOOGLE%20TSMIXER/GoogleTSMixer_Coffee_Sales_Multivariate_Forecast.ipynb)
 - Hourly Electricity Price using TFT:
 
 ---
